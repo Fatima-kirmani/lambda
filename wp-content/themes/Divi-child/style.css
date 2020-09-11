@@ -1,0 +1,200 @@
+/*!
+Theme Name: Divi-child
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Version: 3.22.7
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Tags: responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+License: GNU General Public License v2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: Divi*/
+body h1{
+    font-size: 50px;
+    color: white;
+    /* font-weight: 700; */
+}
+#page-container #main-header{
+    background: rgba(0,0,0,0.28);
+}
+#top-menu-nav #top-menu li:active{
+    color: #cc9900;
+}
+
+.head-top{
+    margin-top: 10%;
+}
+.left{
+    margin-left: 32%;
+}
+.btn{
+    padding: 10px 40px;
+    background-color: black;
+    /* margin-left: 1%; */
+    margin-right: 2%;
+    opacity: 60%;
+    color: white;
+}
+.right-food .et_pb_text_inner h2{
+    margin-top: 14%;
+}
+.black-bg .et_pb_text_inner .left-align{
+    margin-left: 14%;
+    margin-top: 5%;
+}
+.black-bg .et_pb_text_inner{
+    padding: 40px 20px;
+    background-color: black;
+    opacity: 80%
+}
+.reviews .et_pb_text_inner{
+    padding: 40px 20px;
+    background-color: black;
+    opacity: 80%;
+    width: 50%;
+    margin-left: 23%;
+}
+.et_pb_contact_form label{
+    display: block;
+    color: #cc9900;
+}
+.et_contact_bottom_container button{
+    outline: #cc9900;
+    border: solid 2px #cc9900;
+    color: #cc9900
+}
+.et_pb_contact_form input:hover{
+    border: solid 1px #cc9900;
+}
+.et_pb_section .black{
+    padding: 40px 20px;
+    background-color: black;
+    opacity: 80%
+}
+.chef .chefs .et_pb_text_inner  img{
+    border-radius: 100%;
+    border:2px solid #cc9900
+}
+.story .et_pb_text_inner h2{
+    margin-top: 7%;
+}
+.wpcf7-form input,.wpcf7-form textarea{
+    padding: 10px 40px;
+    outline: none;
+    width: 100%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    border: none;
+}
+.et_pb_text_inner .margin-left{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+.wpcf7-form .send-btn{
+    width: 30%;
+    margin-left: 32%;
+    color: white;
+    background-color: #cc9900;
+    font-weight: 700;
+    font-size: 20px;
+}
+.timings{
+    padding: 40px 20px;
+    background-color: black;
+    opacity: 80%
+}
+#contact-id form label{
+    display: none!important;
+}
+.woocommerce .products li{
+    background-color: white;
+    padding: 10px 20px!important;
+}
+.woocommerce .products li:hover{
+    border: 1px solid #cc9900;
+    transition: 0.3s ease-in-out;
+}
+.woocommerce .products li .woocommerce-loop-product__title,.woocommerce .products li .price{
+    color: #cc9900;
+    text-align: center;
+}
+.woocommerce .products li .et_overlay:before{
+    color: #cc9900;
+}
+.woocommerce-pagination .page-numbers li a{
+    color: #cc9900!important;
+}
+.woocommerce-pagination .page-numbers{
+    border: #cc9900 solid 1px;
+}
+/* .container #content-area #left-area .product .clearfix{
+    width: 70%;
+    float: left;
+    margin-bottom: 5%;
+} */
+#review_form_wrapper #review_form .comment-form-rating .stars a{
+    color: #cc9900;
+}
+.form-submit .submit{
+    color: #cc9900!important;
+    border: 2px solid #cc9900!important;
+}
+.summary{
+    text-align: center;
+}
+.summary h1{
+    color: #cc9900!important;
+    display: block!important;
+}
+.summary .price .woocommerce-Price-amount {
+    color: #cc9900;
+}
+.summary .cart .single_add_to_cart_button {
+    color: #cc9900!important;
+}
+.summary .product_meta a{
+    color: #cc9900;
+}
+.woocommerce-form-coupon-toggle .woocommerce-info{
+    background-color: #cc9900;
+}
+#place_order{
+    color: #cc9900;
+}
+.woocommerce-notices-wrapper .woocommerce-info{
+    background-color: #cc9900;
+}
+.woocommerce .cart-empty {
+    background-color: #cc9900;
+}
+.return-to-shop .wc-backward{
+    color: #cc9900!important;
+}
+.et_pb_code_inner .woocommerce .woocommerce-cart-form__cart-item .product-name a{
+    color: #cc9900;
+}
+.coupon button{
+    color: #cc9900!important;
+}
+.wc-proceed-to-checkout .checkout-button{
+    color: #cc9900!important;
+}
+#footer-widgets .footer-widget{
+    width: 31%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+.footer-widget .textwidget h2,.footer-widget .textwidget p{
+    text-align: center;
+    color: white;
+}
+#footer-widgets .footer-widget .widget_text{
+    width: 100%;
+}
+#footer-widgets .footer-widget .textwidget{
+    /* margin-left: 10%; */
+    width: 100%;
+}
+.footer-widget .footer2{
+    padding-left: 12%;
+}
